@@ -3,6 +3,10 @@
 Every released version has a section here. The next release's section is
 assembled from `changelog.d/` by the ceremony PR.
 
+## 0.7.3 — 2026-08-13
+
+- Ordinary work under the release label, shipping nothing (#313).
+
 ## 0.7.2 — 2026-08-13
 
 - A third fragment, proving the whole directory is consumed (#313).
